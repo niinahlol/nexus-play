@@ -1,0 +1,33 @@
+header {
+  background: linear-gradient(180deg, #151022 0%, #0d0a14 100%);
+  border-bottom: 1px solid #30204a;
+  box-shadow: 0 4px 20px rgba(123, 63, 180, 0.12);
+}
+
+nav {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 18px 24px;
+
+  display: flex;
+  align-items: center;
+  gap: 28px;
+}
+
+nav a {
+  color: #aaa1b8;
+  font-weight: 600;
+  transition:
+    color 0.2 ease,
+    text-shadow 0.2 ease;
+}
+
+nav a:hover {
+  color: #d9b8ff;
+  text-shadow: 0 0 10px rgba(180, 100, 255, 0.5);
+}
+
+nav a.active {
+  color: #b86cff;
+  text-shadow: 0 0 12px rgba(184, 108, 255, 0.65);
+}
