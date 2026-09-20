@@ -41,7 +41,7 @@ As capturas de tela finais do projeto serão adicionadas nesta seção.
 
 ### 1. Clone o repositório
 
-git clone URL_DO_REPOSITORIO
+git clone [URL_DO_REPOSITORIO](https://github.com/niinahlol/nexus-play)
 
 ### 2. Entre na pasta do projeto
 
@@ -68,7 +68,7 @@ Depois, acesse o endereço exibido pelo Vite no terminal.
 A versão publicada do Nexus Play estará disponível em:
 
 **Firebase Hosting**
-URL_DO_FIREBASE
+[URL_DO_FIREBASE](https://nexus-play-1fa11.web.app/)
 
 ## Desenvolvedora
 
