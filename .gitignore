@@ -12,6 +12,7 @@ dist
 dist-ssr
 .env
 .env.local
+.firebase/
 *.local
 
 # Editor directories and files
